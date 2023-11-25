@@ -1,7 +1,7 @@
 {
-  "name": “Murathan The Operator",
-  "website": "https://twitter.com/0xMurathan”,
-  "description": “running eigenlayer“,
-  "logo": "https://i.ibb.co/Cn5gCdT/p-s4-XRKq-400x400.jpg",
-  "twitter": "https://twitter.com/0xMurathan"
+  "name": "Some operator",
+  "website": "https://www.example.com",
+  "description": "I operate on some data",
+  "logo": "https://www.example.com/logo.png",
+  "twitter": "https://x.com/example"
 }
